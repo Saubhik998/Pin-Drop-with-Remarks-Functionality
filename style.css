@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+}
+
+#map {
+    height: 100vh;
+    width: 75vw;
+}
+
+#sidebar {
+    width: 25vw;
+    height: 100vh;
+    overflow-y: auto;
+    background: #f4f4f4;
+    padding: 20px;
+}
+
+#sidebar h2 {
+    margin-bottom: 10px;
+}
+
+#pinList {
+    list-style: none;
+}
+
+#pinList li {
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.popupForm {
+    display: flex;
+    flex-direction: column;
+}
