@@ -12,9 +12,7 @@
 3. [Technologies Used](#technologies-used)
 4. [Installation Guide](#installation-guide)
 5. [Usage Instructions](#usage-instructions)
-6. [Screenshots](#screenshots)
-7. [Future Enhancements](#future-enhancements)
-8. [License](#license)
+6. [License](#license)
 
 ---
 
@@ -67,24 +65,10 @@ The **Pin Drop with Remarks Functionality** project provides an interactive map 
 5. **Navigating to Pins**: Click on a saved pin in the sidebar to recenter the map on its location.
 6. **Deleting Pins**: To remove a pin, click the "Delete" button next to its entry in the sidebar.
 
----
 
-## Screenshots
-
-Add screenshots here to showcase:
-- Map interface and pin dropping.
-- Sidebar list with saved pins and remarks.
-- Pin navigation functionality.
 
 ---
 
-## Future Enhancements
-
-- **User Authentication**: Allowing users to log in and save their data across devices.
-- **Advanced Filtering**: Adding options to filter pins based on location, time, or remark content.
-- **Cloud Storage Integration**: Use a cloud database for data persistence beyond local storage.
-
----
 
 ## License
 
